@@ -1,15 +1,15 @@
-# Svelte Components
-
-**Generate Svelte components to use in MPAs and vanilla JS**
+# Svelte Components Template
 
 ## Table of Contents
 
-- Introduction
-- Installation
-- Usage
-- Development
-- Build
-- Customization
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Usage](#usage)
+  - [Creating your own components](#creating-your-own-components)
+  - [Including Components in Your Project](#including-components-in-your-project)
+- [Development](#development)
+- [Build](#build)
+- [Customization](#customization)
 
 ## Introduction
 
