@@ -86,7 +86,7 @@ You can include the generated bundle in your HTML file and instantiate the compo
         props: demoProps,
       });
 
-      const coolTarget = document.getElementById("cool-target");
+      const coolTarget = document.getElementById("coolmode-target");
       new svelte.CoolModeComponent({
         target: coolTarget,
       });
